@@ -1,4 +1,4 @@
-package learn.code.marcus;
+package learn.code.marcus.binary;
 
 public class FirstBadVersion {
   int firstBad;
