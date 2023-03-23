@@ -1,0 +1,27 @@
+{
+  "subject": "News and upcoming features from Linksys",
+  "contents": [
+    {
+      "category": "FEATURES",
+      "items": [
+        {
+          "title": "Privacy Pledge",
+          "body": "We DO NOT monitor, collect, or store your browsing and application use data"
+        },
+        {
+          "title": "Linksys Cognitive Mesh",
+          "body": "Set up your reliable whole home mesh system in a matter of minutes"
+        }
+      ]
+    },
+    {
+      "category": "PRODUCTS",
+      "items": [
+        {
+          "title": "New WiFi 6e Routers",
+          "body": "Blazing fast and reliable connectivity with the latest WiFi 6e laptops, tablets and smartphones"
+        }
+      ]
+    }
+  ]
+}
